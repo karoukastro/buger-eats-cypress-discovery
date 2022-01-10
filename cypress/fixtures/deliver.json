@@ -1,0 +1,50 @@
+{
+    "signup": {
+        "name": "Carolina Castro",
+        "cpf": "12312312378",
+        "email": "test@test.com",
+        "whatsapp": "21965441112",
+        "address": {
+            "postalcode": "22793081",
+            "street": "Avenida das Américas",
+            "number": "7777",
+            "details": "Loja 5",
+            "district": "Barra da Tijuca",
+            "city_state": "Rio de Janeiro/RJ"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "cpf_inv": {
+        "name": "CPF Invalido",
+        "cpf": "12312312AAA",
+        "email": "cpf@test.com",
+        "whatsapp": "21965441112",
+        "address": {
+            "postalcode": "22793081",
+            "street": "Avenida das Américas",
+            "number": "7777",
+            "details": "Loja 5",
+            "district": "Barra da Tijuca",
+            "city_state": "Rio de Janeiro/RJ"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "email_inv": {
+        "name": "Email invalido",
+        "cpf": "12312312378",
+        "email": "testtest.com",
+        "whatsapp": "21965441112",
+        "address": {
+            "postalcode": "22793081",
+            "street": "Avenida das Américas",
+            "number": "7777",
+            "details": "Loja 5",
+            "district": "Barra da Tijuca",
+            "city_state": "Rio de Janeiro/RJ"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    }
+}
